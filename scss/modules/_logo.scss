@@ -1,0 +1,9 @@
+.logo {
+	font: 400 50px Pacifico, cursive;
+	color: $color-text;
+	text-decoration: none;
+
+	&:hover {
+		color: #d73354;
+	}
+}

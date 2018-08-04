@@ -1,0 +1,29 @@
+.footer {
+	background: #262626;
+	color: #b9b9b9;
+
+
+	&__content {
+		padding: 35px 15px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__right {
+		font-size: 16px;
+	}
+
+	&__logo {
+		font: 400 25px Pacifico, cursive;
+	}
+
+	&__made {
+		font-size: 15px;
+	}
+
+	&__emit {
+		color: #ff2b58;
+		font-weight: 700;
+	}
+}

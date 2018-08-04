@@ -1,0 +1,23 @@
+.blog {
+	background: #b07cf7;
+	padding: 90px 0 120px;
+	text-align: center;
+	color: #fff;
+
+	&__title {
+		margin-bottom: 20px;
+	}
+
+	&__text {
+		margin-bottom: 45px;
+		padding: 0 275px;
+	}
+
+	&__button {
+		background: #f72b3b;
+
+		&:hover {
+			background: #96b92c;
+		}
+	} 
+}

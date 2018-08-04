@@ -1,0 +1,26 @@
+.contact {
+	padding: 90px 0 120px;
+	background: #4a779f url(../images/clouds.jpg) top no-repeat;
+	background-size: cover;
+	text-align: center;
+
+	&__title {
+		margin-bottom: 32px;		
+	}
+
+	&__text {
+		padding: 0 390px;
+		margin-bottom: 45px;
+	}
+
+	&__info {
+		font-size: 20px;
+		text-align: left;
+		margin-bottom: 15px;
+		line-height: 1.6;
+	}
+
+	&__name {
+		font-weight: 700;
+	}
+}

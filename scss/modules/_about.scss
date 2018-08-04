@@ -1,0 +1,21 @@
+.about {
+	background: #00bbbb url(../images/plate.png) 25% 65% no-repeat;
+	color: #fff;
+	padding: 165px 0 230px;
+	
+	&__info {
+		padding-left: 69px;
+	}
+
+	&__title {
+		margin-bottom: 8px;
+	}
+
+	&__text {
+		line-height: 1.6;
+
+		&--margin {
+			margin-bottom: 18px;
+		}
+	}
+}
